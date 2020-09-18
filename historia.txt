@@ -1,4 +1,2 @@
-Esta si es un archivo muestra
-
-Para el curso de Git en platzi
-
+Esta es la prueba 2
+ya que la primera historia no quizo funcionar
