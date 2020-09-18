@@ -1,0 +1,4 @@
+Esta si es un archivo muestra
+
+Para el curso de Git en platzi
+
