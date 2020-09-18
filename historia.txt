@@ -1,2 +1,7 @@
 Esta es la prueba 2
 ya que la primera historia no quizo funcionar
+
+Ahora le vamos a agregar unos campos y hacer la edición correspondiente
+
+
+esto con el fin de visualizar otras funciones que git nos proporciona
