@@ -7,4 +7,6 @@ Ahora le vamos a agregar unos campos y hacer la edición correspondiente
 esto con el fin de visualizar otras funciones que git nos proporciona
 
 
+Master 1 
+
 Vamos a agregarle otros campos y nos daremos cuenta de los cambios que pasan dentro del archivo y de su ejecución.
